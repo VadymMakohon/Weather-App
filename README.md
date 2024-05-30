@@ -12,7 +12,7 @@ This Weather App is a simple web application that fetches and displays weather d
 - Responsive design for an optimal viewing experience on various devices.
 - Error handling for invalid city names and other potential issues.
 
-## Demo
+## Demo   https://vadymmakohon.github.io/Weather-App/
 
 ![Screenshot 2024-05-30 at 1 34 31 PM](https://github.com/VadymMakohon/Weather-App/assets/138728243/052bb775-8501-4966-b4eb-e8c2682abc62)
 
