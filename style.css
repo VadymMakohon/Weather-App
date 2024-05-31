@@ -4,33 +4,8 @@ body {
   padding: 0;
   font-family: 'Roboto', sans-serif;
   text-align: center;
-  color: #333;
-  transition: background 0.5s ease;
-}
-
-/* Backgrounds for different weather conditions */
-.clear-sky {
-  background: linear-gradient(to bottom, #87CEEB, #ADD8E6);
-}
-
-.cloudy {
-  background: linear-gradient(to bottom, #B0C4DE, #D3D3D3);
-}
-
-.rainy {
-  background: linear-gradient(to bottom, #5F9EA0, #4682B4);
-}
-
-.snowy {
-  background: linear-gradient(to bottom, #FFFFFF, #E0FFFF);
-}
-
-.stormy {
-  background: linear-gradient(to bottom, #2F4F4F, #696969);
-}
-
-.default-weather {
   background: linear-gradient(to bottom, #6495ED, #ADD8E6);
+  color: #333;
 }
 
 .container {
@@ -38,9 +13,6 @@ body {
   margin: 0 auto;
   padding: 20px;
   box-sizing: border-box;
-  background-color: rgba(255, 255, 255, 0.8);
-  border-radius: 8px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 h1 {
@@ -151,24 +123,24 @@ button.unit-toggle:hover {
 
 @media (max-width: 600px) {
   h1 {
-      font-size: 28px;
+    font-size: 28px;
   }
 
   form {
-      padding: 0 10px;
+    padding: 0 10px;
   }
 
   #weatherInfo {
-      max-width: 100%;
-      padding: 15px;
+    max-width: 100%;
+    padding: 15px;
   }
 
   input[type="text"] {
-      width: calc(100% - 20px);
+    width: calc(100% - 20px);
   }
 
   button {
-      width: 100%;
-      padding: 12px;
+    width: 100%;
+    padding: 12px;
   }
 }
