@@ -11,10 +11,11 @@ This Weather App is a simple web application that fetches and displays weather d
 - Automatically fetches weather data for the user's current location using geolocation.
 - Responsive design for an optimal viewing experience on various devices.
 - Error handling for invalid city names and other potential issues.
+- Displays a 3-day weather forecast.
 
 ## Demo   https://vadymmakohon.github.io/Weather-App/
 
-![Screenshot 2024-05-30 at 1 34 31 PM](https://github.com/VadymMakohon/Weather-App/assets/138728243/052bb775-8501-4966-b4eb-e8c2682abc62)
+![Screenshot 2024-05-31 at 9 19 53 AM](https://github.com/VadymMakohon/Weather-App/assets/138728243/32f65c41-ed8e-4d70-ba21-9d17e4bebed4)
 
 
 ## Technologies Used
