@@ -14,8 +14,7 @@ Stay informed about the weather with my Weather Forecast app. Get real-time upda
 
 ## Demo   https://vadymmakohon.github.io/Weather-App/
 
-![Screenshot 2024-05-31 at 9 19 53 AM](https://github.com/VadymMakohon/Weather-App/assets/138728243/32f65c41-ed8e-4d70-ba21-9d17e4bebed4)
-
+![Screenshot 2024-06-01 at 4 22 13 PM](https://github.com/VadymMakohon/Weather-App/assets/138728243/71bf3330-0be5-4e9b-a759-ed5dd0cac23b)
 
 ## Technologies Used
 
