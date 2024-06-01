@@ -1,17 +1,16 @@
 # Weather App
 
-This Weather App is a simple web application that fetches and displays weather data for a specified city using the OpenWeatherMap API. It provides current weather conditions, including temperature, description, humidity, and wind speed. Users can also get the weather for their current location using geolocation. The app allows toggling between Celsius and Fahrenheit.
+Stay informed about the weather with my Weather Forecast app. Get real-time updates on current conditions and a 5-day forecast to plan your activities effectively. It provides current weather conditions, including temperature, description, humidity, and wind speed. Users can also get the weather for their current location using geolocation.
 
 ## Features
 
 - Fetches current weather data for a specified city using the OpenWeatherMap API.
 - Displays weather information including temperature, weather description, humidity, and wind speed.
 - Shows weather icons representing the current weather conditions.
-- Allows toggling between Celsius and Fahrenheit.
 - Automatically fetches weather data for the user's current location using geolocation.
 - Responsive design for an optimal viewing experience on various devices.
 - Error handling for invalid city names and other potential issues.
-- Displays a 3-day weather forecast.
+- Displays a 5-day weather forecast.
 
 ## Demo   https://vadymmakohon.github.io/Weather-App/
 
